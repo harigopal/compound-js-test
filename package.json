@@ -2,17 +2,23 @@
 , "version": "0.0.1"
 , "engines": ["node >= 0.8.0"]
 , "main": "server.js"
+, "description": "Let's add some missing features to Trello!"
+, "repository":
+  { "type": "git"
+  , "url": "git://github.com/harigopal/better-trello.git"
+  }
 , "dependencies":
   { "ejs": "*"
   , "ejs-ext": "latest"
   , "express": "~3.x"
   , "compound": ">= 1.1.0"
   , "jugglingdb": ">= 0.1.0"
-  
+  , "node-trello": "latest"
   , "coffee-script": ">= 1.1.1"
   , "stylus": "latest"
   , "seedjs": "latest"
   , "co-assets-compiler": "*"
+  , "react": "latest"
   },
   "devDependencies":
   { "nodeunit": "*"
