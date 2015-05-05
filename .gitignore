@@ -17,3 +17,5 @@ coverage.html
 .settings
 doc
 
+# workspace files are user-specific
+*.sublime-workspace
