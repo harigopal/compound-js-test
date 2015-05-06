@@ -1,11 +1,11 @@
-{ "name": "better-trello"
+{ "name": "trello-archivist"
 , "version": "0.0.1"
 , "engines": ["node >= 0.8.0"]
 , "main": "server.js"
-, "description": "Let's add some missing features to Trello!"
+, "description": "Easy archival for Trello tasks."
 , "repository":
   { "type": "git"
-  , "url": "git://github.com/harigopal/better-trello.git"
+  , "url": "https://github.com/harigopal/trello-archivist.git"
   }
 , "dependencies":
   { "ejs": "*"
